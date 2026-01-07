@@ -1,4 +1,7 @@
 # Universal Machine: High-Performance System Emulator 
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-x86-red?style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 **A 32-bit virtual machine engineered for extreme speed and cache efficiency, capable of executing complex binary programs.**
 
